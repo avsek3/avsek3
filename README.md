@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Abhishek Bagale 👋
 
-<!--
-**avsek3/avsek3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="![image1](image1)" alt="Abhishek Bagale" width="150" align="right" style="border-radius: 12px; margin-left: 15px;">
 
-Here are some ideas to get you started:
+I'm a BAMS student from Nepal with a passion for medicine, technology, and creativity. As a future doctor and tech enthusiast, I love exploring the intersection of healthcare and innovation—especially through digital projects and creative apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍⚕️ About Me
+
+- **BAMS student** based in Nepal  
+- **Tech enthusiast**: I love experimenting with new technologies and building creative apps on my laptop  
+- **Aspiring digital health innovator**: My dream is to digitalize old Ayurvedic books and make traditional wisdom accessible to the world  
+- **Sports lover**: Football ⚽, Cricket 🏏, and Video games 🎮 are my go-to hobbies
+
+## 🚀 What I'm Working On
+
+- Creating and experimenting with creative applications
+- Projects to preserve and digitize ancient Ayurvedic texts
+
+## 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-@avsekk3-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/avsekk3)
+[![Instagram](https://img.shields.io/badge/Instagram-@avsekk3-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/avsekk3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Bagale-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-bagale)
+[![Facebook](https://img.shields.io/badge/Facebook-Abhishek%20Bagale-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Abhishek%20Bagale)
+
+---
+
+> “Blending tradition with technology to make a difference.”
+
+> _“Code a little, care a lot. Medicine for the body, technology for the world.”_
+
+---
