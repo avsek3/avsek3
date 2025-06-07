@@ -1,7 +1,5 @@
 # Hi, I'm Abhishek Bagale 👋
 
-<img src="![image1](image1)" alt="Abhishek Bagale" width="150" align="right" style="border-radius: 12px; margin-left: 15px;">
-
 I'm a BAMS student from Nepal with a passion for medicine, technology, and creativity. As a future doctor and tech enthusiast, I love exploring the intersection of healthcare and innovation—especially through digital projects and creative apps.
 
 ## 👨‍⚕️ About Me
